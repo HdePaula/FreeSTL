@@ -1,0 +1,16 @@
+@media (max-width: 750px) {
+    #menuBar{
+        width: 100%;
+        display: block;
+    }
+    .form-inline{
+        justify-content: center;
+        margin: 10px 0px;
+    }
+}
+
+@media (max-width: 580px) {
+    .form-inline{
+        width: 100%;
+    }
+}
